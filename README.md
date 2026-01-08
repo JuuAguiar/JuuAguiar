@@ -1,60 +1,78 @@
-💫 **Hi, I'm Julia!**
+# 💫 Hi, I'm Julia!
 
-Welcome to my corner of the internet — where I learn, build, break things (no shame), and put them back together with slightly more wisdom than before. 😄
+Welcome to my corner of the internet — a place where I learn, build, break things (no shame 😄), and put them back together with a little more wisdom than before.
 
-I'm a web development enthusiast taking my first big steps into the vast universe of technology. I love studying, experimenting with new tools, and turning complex concepts into something simple and fun. My biggest passion right now is coding things that live on the web: front-end, back-end, full-stack… whatever sparks my curiosity, I’m diving in.
+I’m a **Web Development enthusiast** taking my first big steps into the vast universe of technology. I love studying, experimenting with new tools, and turning complex concepts into something simple, approachable, and even fun.
 
-✨ **What I’m Currently Focused On**
+Right now, my biggest passion is building things that live on the web — front-end, back-end, full-stack… if it sparks my curiosity, I’m diving in.
 
-I’m building a strong base in Web Development, exploring both front-end and back-end.
-Right now, my study playlist includes:
+---
 
-JavaScript (my main partner in crime)
+## ✨ What I’m Currently Focused On
 
-React (UI magic ✨)
+I’m building a **strong foundation in Web Development**, exploring both front-end and back-end technologies.
 
-PHP (server-side logic and dynamic pages)
+### My current study stack includes:
 
-Angular (because why not learn two frameworks? 😄)
+- **JavaScript** (my main partner in crime)
+- **React** (UI magic ✨)
+- **PHP** (server-side logic and dynamic pages)
+- **Angular** (because why not learn more than one framework? 😄)
+- **HTML & CSS** (eternal love)
+- **Git & GitHub** (version control, organization, and growth)
 
-HTML & CSS (eternal love)
+I’m always excited to learn new tools and frameworks — the tech world moves fast, and I’m happily running after it.
 
-Git & GitHub (learning and organizing everything)
+---
 
-I’m always excited to learn new tools and frameworks — the tech world moves fast, and I'm happily running after it.
+## 🌱 Learning Beyond Web Development
 
-🌱 What I’m Learning on the Side
+Although Web Development is my main focus, I also have a soft spot for **Data and Python**.
 
-Even though my main focus is Web Development, I also have a soft spot for data.
+My long-term goal is to **merge data and web technologies**, creating applications that are not only interactive, but also data-driven and meaningful.
 
-One day, I want to merge these two worlds.
+---
 
-🧩 **About My Projects**
+## 🧩 About My Projects
 
 My repositories are a mix of:
 
-courses I’m studying
+- Courses and bootcamps I’m studying
+- Front-end experiments
+- Mini-projects built while learning new frameworks and concepts
 
-front-end experiments
+Each project is a snapshot of my journey as a developer.  
+Every folder represents a small milestone, and I try to keep everything organized so I can always look back and see how far I’ve come.
 
-mini-projects while learning frameworks
+---
 
-They’re snapshots of my growth as a dev and each folder is a little milestone.
-I try to keep everything organized so I can look back and see how far I’ve come.
+## 💭 My Dream
 
-💭 **My Dream**
+One day, I want to **travel the world**.
 
-One day, I want to travel the world.
-Study abroad, work abroad, write code from different places, explore new cultures, and live experiences that expand who I am — as a human and as a developer.
+Study abroad.  
+Work abroad.  
+Write code from different places.  
+Explore new cultures.
 
-Coding, for me, isn’t just a career.
-It’s a bridge to the future I want.
+Coding, for me, isn’t just a career path —  
+it’s a bridge to the future I want to build, both professionally and personally.
 
-☕ **A Bit More About Me**
+---
 
-I love learning and I’m always curious, constantly exploring new ideas and diving deeper into whatever catches my attention, be it tech, books or tv shows. I enjoy breaking down difficult concepts into something simple, turning confusion into clarity in a way that feels natural and satisfying. I’m determined — sometimes stubborn, I will admit that.
+## ☕ A Bit More About Me
 
-📫 **Feel Free to Connect**
+I’m naturally curious and deeply motivated by learning. I enjoy breaking down complex ideas and turning confusion into clarity in a way that feels intuitive and satisfying.
 
-Whether you’re here to explore, collaborate, teach, or just peek around — welcome!
-I’m always open to learning new things and talking to people who share the same passion for tech.
+I’m determined — and yes, sometimes stubborn — but that persistence is part of what keeps me moving forward.
+
+When I’m not coding, you’ll probably find me reading, watching series, or diving into whatever new idea caught my attention that week.
+
+---
+
+## 📫 Feel Free to Connect
+
+Whether you’re here to explore my projects, collaborate, share knowledge, or just take a look around — welcome!
+
+I’m always open to learning new things and connecting with people who share the same passion for technology 🚀
+
