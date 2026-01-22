@@ -14,12 +14,12 @@ I’m building a **strong foundation in Web Development**, exploring both front-
 
 ### My current study stack includes:
 
-- **JavaScript** (my main partner in crime)
-- **React** (UI magic ✨)
-- **PHP** (server-side logic and dynamic pages)
-- **Angular** (because why not learn more than one framework? 😄)
-- **HTML & CSS** (eternal love)
-- **Git & GitHub** (version control, organization, and growth)
+- **JavaScript**
+- **React** 
+- **PHP** 
+- **Angular** 
+- **HTML & CSS** 
+- **Git & GitHub** 
 
 I’m always excited to learn new tools and frameworks — the tech world moves fast, and I’m happily running after it.
 
@@ -40,6 +40,7 @@ My repositories are a mix of:
 - Courses and bootcamps I’m studying
 - Front-end experiments
 - Mini-projects built while learning new frameworks and concepts
+- College Projects
 
 Each project is a snapshot of my journey as a developer.  
 Every folder represents a small milestone, and I try to keep everything organized so I can always look back and see how far I’ve come.
