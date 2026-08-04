@@ -14,12 +14,10 @@ I’m building a **strong foundation in Web Development**, exploring both front-
 
 ### My current study stack includes:
 
-- **JavaScript**
-- **React** 
 - **PHP** 
-- **Angular** 
+- **Laravel**
+- **Vue.Js** 
 - **HTML & CSS** 
-- **Git & GitHub** 
 
 I’m always excited to learn new tools and frameworks — the tech world moves fast, and I’m happily running after it.
 
